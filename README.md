@@ -1,2 +1,2 @@
 # JS
-Some pronciples of Javascript
+Some principles of Javascript
